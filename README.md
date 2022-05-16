@@ -92,9 +92,7 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 
 # Future Improvements/Features
 ***
-
-Some additional features I would like to add to improve the app and create a more in-depth user experience:
--
+Some additional features I would like to add to improve the app and create a more in-depth user experience:-
 -	 
 -	
 
