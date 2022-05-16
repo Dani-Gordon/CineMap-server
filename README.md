@@ -76,4 +76,28 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 >**filmController.js file-**<img width="250" alt="image" src="https://user-images.githubusercontent.com/99892502/168521220-1706d57c-fce5-487a-8e69-f5f4072b3a1b.png"> <img width="250" alt="image" src="https://user-images.githubusercontent.com/99892502/168521242-84f7d9f2-2ded-4af9-8cef-e0ca0491bb43.png">
 
 
-## Major Hurdles
+## Bugs: 
+
+- 
+
+## Challenges: 
+
+- 
+- 
+
+
+ ## Wins:
+
+-	
+-	
+
+# Future Improvements/Features
+***
+
+Some additional features I would like to add to improve the app and create a more in-depth user experience:
+-
+-	 
+-	
+
+# Key Learnings
+***
