@@ -85,8 +85,7 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 - 
 - 
 
-
- ## Wins:
+## Wins:
 
 -	
 -	
