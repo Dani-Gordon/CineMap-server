@@ -28,26 +28,17 @@ React (JavaScript) | Sass | CSS | Bulma | MongoDB | Node | Express | JWT | Netli
 <img src="./assets/cinemap-home.png" />
 </p>
 
->
->  <img width="400" alt="image" src="https://user-images.githubusercontent.com/99892502/168523590-86e42a41-8e12-4c24-ba43-a4b9d4dd202c.png">        <img width="350" alt="image" src="https://user-images.githubusercontent.com/99892502/168523607-bc450af8-37be-4485-b97c-617212173cc7.png">
+>  CineMap as a non-logged in user provides the ability to view the map, choose a country and view the films from that country as well as the entire film index(database): 
 >  
+>  <img width="400" alt="image" src="https://user-images.githubusercontent.com/99892502/168523590-86e42a41-8e12-4c24-ba43-a4b9d4dd202c.png"> <img width="350" alt="image" src="https://user-images.githubusercontent.com/99892502/168523607-bc450af8-37be-4485-b97c-617212173cc7.png">
+
+> CineMap features as a registered and logged in user including your name featured on the Navbar, a My Favs page, a Random Film page for users feeling a bit indecisive, the ability to like or unlike a previously liked film, the ability to leave a comment and rating, the ability to edit or delete your own comment and, last but not least, a logout function: 
+> 
 >  <img width="350" alt="image" src="https://user-images.githubusercontent.com/99892502/168523613-b4a47685-44be-416c-b147-7b1447fbde63.png">  <img width="400" alt="image" src="https://user-images.githubusercontent.com/99892502/168523629-43782bc1-6dd4-4ff0-84cd-c575caa905a2.png">   
 >  
 >  <img width="400" alt="image" src="https://user-images.githubusercontent.com/99892502/168523641-aa8eed32-7c09-4e24-8a76-7c6da265240d.png">
 >
 >
-
-
-
-
-
-
-<p align="center">
-<img src="./assets/cinemap-continent.png" width = "47%" />
-<img src="./assets/cinemap-film.png" width="47%"/>
-</p>
-
-
 # Project Overview
 ***
 
