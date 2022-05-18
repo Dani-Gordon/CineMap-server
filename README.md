@@ -30,16 +30,13 @@ React (JavaScript) | Sass | CSS | Bulma | MongoDB | Node | Express | JWT | Netli
 
 >  CineMap as a non-logged in user provides the ability to view the map, choose a country by hovering and clicking on the map, view the films from that country as well as the entire film index(database) by choosing Film Index on the Navigation Menu: 
 >  
-> <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168938792-b2d3916e-b6be-4ce9-967d-223453a17dc8.png">  <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168939957-86d945be-1c68-4f3e-b2c3-867bb982307c.png">   
-> 
-> <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168523607-bc450af8-37be-4485-b97c-617212173cc7.png">
+> <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168973836-e839c163-8f6d-4cc4-9ac7-f2837ef7ea31.png">  <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168972816-41c90961-8ad7-4875-a713-dc2cc9c6e4b4.png"> <img width="468" alt="image" src="https://user-images.githubusercontent.com/99892502/168973074-b8e69021-5c2b-440d-96ff-cd0167e6a075.png"> <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168523607-bc450af8-37be-4485-b97c-617212173cc7.png">
 
-> As a registered and logged in user of CineMap, features include "Hello (your name)!" on the Navbar to show the user, is in fact, logged in, a My Favs page to save all of the users favorite films in one place, a Random Film page for users feeling a bit indecisive that day, the ability to like or unlike a previously liked film, the ability to leave a comment and rating, the ability to edit or delete your own comment and, last but not least, a logout clickable link: 
+> As a registered and logged in user of CineMap, features include "Hello (your name)!" on the Navbar to show the user, is in fact, logged in, a My Favs page to save all of the users favorite films in one place, a Random Film page for users feeling a bit indecisive that day, the ability to like or unlike a previously liked film, the ability to leave a comment and rating, the ability to edit (as seen in video above) or delete your own comment and, last but not least, a logout clickable link: 
 > 
->  <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168523613-b4a47685-44be-416c-b147-7b1447fbde63.png">  <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168941674-8301ad28-c818-49b0-97cd-4005a9bcd242.png">
->  
->  <img width="468" alt="image" src="https://user-images.githubusercontent.com/99892502/168941807-7a8dfb45-b126-44f9-ba66-3366eeeac2d0.png">
-
+>  <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168523613-b4a47685-44be-416c-b147-7b1447fbde63.png"> <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168939957-86d945be-1c68-4f3e-b2c3-867bb982307c.png">    
+  <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168941674-8301ad28-c818-49b0-97cd-4005a9bcd242.png">  <img width="450" alt="image" src="https://user-images.githubusercontent.com/99892502/168941807-7a8dfb45-b126-44f9-ba66-3366eeeac2d0.png">
+>
 >
 >
 # Project Overview
@@ -72,8 +69,11 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 
 > The project started on a Wednesday, and by end of day on Friday we had about 80% of our backend built for our MVP as well as some stretch goals. We knew if we didn't add the code into the backend to support frontend strech goals at that time, things could get tricky trying to add code into the backend later. The team felt confident heading into the weekend and ready to wrap up the backend and conquer the frontend, full steam ahead. 
 >
-> Here is a list of tasks I completed throughout the Project week independently (taken from the Trello board and placed in list format): 
->
+> Below is a list of tasks (taken from our Trello board) that I completed and/or was directly a part of throughout Project week:
+> 
+> <img width="800" alt="image" src="https://user-images.githubusercontent.com/99892502/168981915-8494810f-2caa-4969-bb7c-2d64a8617873.png">
+
+
 
 
 
