@@ -18,7 +18,7 @@ Or run it locally (make sure you have a local version of MongoDB running in your
 
 ## Goals and Timeframe: 
 - Build a full-stack application using an Express API to serve your data with MongoDB. Consume your API with a React front-end. Have CRUD functionality. Implement thoughtful user stories/wireframes to help visualize your core MVP and stretch goals. Deploy app online so it's publicly accessible.
-- 9 days
+- 1 week 
 
 ## Technologies Used:
 React (JavaScript) | Sass | CSS | Bulma | MongoDB | Node | Express | JWT | Netlify | Heroku 
@@ -77,8 +77,7 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 
 
 ## Bugs: 
-
-- 
+- I am happy to say that CineMap, as it stands today, is BUG FREE! As a team, we agreed to forgo adding additional features so we could focus on seamless functionality.
 
 ## Challenges: 
 
@@ -87,8 +86,10 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 
 ## Wins:
 
+- Admin only functionality
 -	Finally getting the Navbar to slide out from the left hand side of the screen and not interfere with the app content.
--	
+-	Ratings and likes for films that increase and decrease based on user input.
+-	Edit and Delete functionality for User Reviews
 
 # Future Improvements/Features
 ***
@@ -96,11 +97,12 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 Some additional features I would like to add to improve the app and create a more in-depth user experience:
 
 -	 Originally, we planned to have every countries flag within each continent listed on the continent page that way the user could choose which country rather than filter through an index of films from all countries within that continent. We added this feature to the stretch goal list early on; however I belive this would be a great improvement to the app for future use.
--	To make the app more responsive for mobile/tablet use.
+-	A more responsive design for mobile/tablet use.
+-	Additional information for the user including where they can view the film of their choosing.
 
 # Key Learnings
 ***
-This was the first project during the SEI course where we worked in a group of 3, so I learned how important it is to communicate about every last detail (no matter how small or minute you think it is), in addition to how important is is to plan until you can't plan anymore, utilize Git branching and use Trello (or something similar) to map out tasks.
+This was the first project during the SEI course where we worked in a group of 3. I learned how important it is to communicate about every last detail (no matter how small or minute you think it is), in addition to how important is is to plan until you can't plan anymore, utilize Git branching and use Trello (or something similar) to map out tasks.
 
 - I learned how to work on a project with a team using Git branching and, although we didn't have many, resolve merge conflicts when they occured.
 - After more research, I learned that there are much easier methods to building a slide-out Navbar. I will be sure to utilize these methods in future apps!
