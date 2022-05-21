@@ -87,10 +87,10 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 
 ## Wins:
 
-- Admin only functionality
+- Admin only functionality.
 -	Finally getting the Navbar to slide out from the left hand side of the screen and not interfere with the app content.
 -	Ratings and likes for films that increase and decrease based on user input.
--	Edit and Delete functionality for User Reviews
+-	Edit and Delete functionality for User Reviews.
 
 # Future Improvements/Features
 ***
