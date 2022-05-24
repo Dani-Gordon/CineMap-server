@@ -19,7 +19,7 @@ OR run it locally (make sure you have a local version of MongoDB running in your
 
 ## Goals and Timeframe: 
 - Build a full-stack application using an Express API to serve your data with MongoDB. Consume your API with a React front-end. Have CRUD functionality. Implement thoughtful user stories/wireframes to help visualize your core MVP and stretch goals. Follow suggestion to deploy app online so it's publicly accessible.
-- 1 week 
+- 1 week (Group of 3) 
 
 ## Technologies Used:
 React (JavaScript) | Sass | CSS | Bulma | MongoDB | Node | Express | JWT | Netlify | Heroku 
